@@ -1,0 +1,2 @@
+# Advertisement-website
+ The "AdvertiseMe" project combines React for the frontend, Express.js for the server, and Node.js for backend development. It provides a dynamic platform for creating, managing, and displaying advertisements. Users can create ad campaigns, target specific demographics, and monitor ad performance. This project offers a comprehensive solution for effective digital advertising campaigns.
